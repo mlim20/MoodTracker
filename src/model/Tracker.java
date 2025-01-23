@@ -1,2 +1,4 @@
-package src.model;public class Tracker {
+package src.model;
+
+public class Tracker {
 }
